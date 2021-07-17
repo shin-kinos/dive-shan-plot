@@ -43,6 +43,12 @@ See some demo files in `demo` directory.🤟
 * `-w` : Size of width (px).
 * `-h` : Size of height (px).
 
+[e.g.]
+
+```
+% rscript dive-shan-plot.r -i input_file.txt -o result_pic -c 1
+```
+
 ## Output
 A graph in PNG format.
 
