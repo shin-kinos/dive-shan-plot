@@ -34,6 +34,8 @@ Version `3.3.5` or more.
 ## Input file format
 A result files of https://github.com/shin-kinos/dive-shannon
 
+See some demo files in `demo` directory.🤟
+
 ## Utility
 * `-i` : Input file name, REQUIRED.
 * `-o` : Output file name. REQUIRED.
