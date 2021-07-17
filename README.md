@@ -44,6 +44,8 @@ A result files of https://github.com/shin-kinos/dive-shannon
 ## Output
 A graph in PNG format.
 
+[e.g.]
+
 ![result_01](https://user-images.githubusercontent.com/83740080/126022788-dc7cdc20-88b6-4383-93b2-8d4d8debe453.png)
 
 ![result_02](https://user-images.githubusercontent.com/83740080/126022849-025b25b7-60f4-4813-8b0b-70dfd95a6eba.png)
