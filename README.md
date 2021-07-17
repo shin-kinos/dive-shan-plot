@@ -1,5 +1,5 @@
 ## Description
-* This scripts is only used for 
+* This scripts is only used for https://github.com/shin-kinos/dive-shannon 
 * Visuarize a result with lolipop plot.
 
 ## Dependencies 
@@ -32,7 +32,7 @@ Version `3.3.5` or more.
 ```
 
 ## Input file format
-A result files of 
+A result files of https://github.com/shin-kinos/dive-shannon
 
 ## Utility
 * `-i` : Input file name, REQUIRED.
