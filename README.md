@@ -5,6 +5,8 @@
 ## Dependencies 
 ### R 
 
+Version `4.1.0` or more. 
+
 ```
 version.string R version 4.1.0 (2021-05-18)
 ```
