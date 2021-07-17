@@ -42,3 +42,6 @@ A result files of https://github.com/shin-kinos/dive-shannon
 * `-h` : Size of height (px).
 
 ## Output
+A graph in PNG format.
+
+![result_01](https://user-images.githubusercontent.com/83740080/126022788-dc7cdc20-88b6-4383-93b2-8d4d8debe453.png)
