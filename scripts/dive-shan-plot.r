@@ -2,7 +2,7 @@
 	library( "ggplot2" )
 
 	error_bomb <- function( arg ) {
-		#Difine a error exit function.
+		#Difine error exit function.
 		print( "ERROR!", quote = FALSE )
 
 		if ( arg == "no_file_name") {
