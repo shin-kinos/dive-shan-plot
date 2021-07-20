@@ -1,6 +1,6 @@
 ## Description
-* This scripts is only used for https://github.com/shin-kinos/dive-shannon 
-* Visuarize a result with lolipop plot.
+* This script is used only for https://github.com/shin-kinos/dive-shannon 
+* Visualize a result with lolipop plot.
 
 ## Dependencies 
 ### R 
